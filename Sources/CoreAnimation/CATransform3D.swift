@@ -8,7 +8,7 @@
 //  Modified by Javier Segura Perez on 10/4/22.
 //  Copyright © 2022 MIOLabs. All rights reserved.
 
-import Foundation
+import CoreGraphics
 
 public struct CATransform3D {
     public init(

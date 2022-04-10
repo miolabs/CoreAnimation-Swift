@@ -7,6 +7,7 @@
 //  Modified by Javier Segura Perez on 10/4/22.
 //  Copyright © 2022 MIOLabs. All rights reserved.
 
+import CoreGraphics
 
 open class CALayer {
     open weak var delegate: CALayerDelegate?
